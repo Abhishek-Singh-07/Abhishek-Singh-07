@@ -1,531 +1,337 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,35:0B1F33,70:123C5A,100:1677A8&height=260&section=header&text=ABHISHEK%20SINGH&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CSE%20%26%20AI&descAlignY=58&descSize=17&descColor=9CDCFE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0284C7&height=230&section=header&text=Abhishek%20Singh&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20CSE%20%26%20AI&descAlignY=62&descSize=19&descColor=BAE6FD"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;400%2B+LeetCode+Problems+Solved;Building+Practical+AI-Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Practical+Software;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;400%2B+LeetCode+Problems+Solved;Always+Learning.+Always+Building." />
 
 <br><br>
 
 <a href="https://github.com/Abhishek-Singh-07">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/abhishek-singh-8b0b74299">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Abhishek_Singh39/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhishek-Singh-07&style=flat-square&color=1677A8&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Abhishek-Singh-07&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
+## 👋 Hey, I'm Abhishek
 
-# 👋 Hi, I'm Abhishek
+I'm a **final-year B.Tech CSE & AI student** at **Pranveer Singh Institute of Technology**, interested in building software that solves practical problems.
 
-### Software Developer in the making.
+I enjoy working across the stack — from designing a frontend and building REST APIs to working with databases and integrating AI into applications.
 
-I'm a **final-year B.Tech CSE & AI student** at **Pranveer Singh Institute of Technology**, passionate about building software that combines strong engineering fundamentals with practical AI.
+Currently focused on:
 
-I work primarily with **Java, JavaScript, Python, React, Node.js, Express.js and MySQL**, while exploring **Generative AI and Machine Learning**.
-
-My approach is simple:
-
-> **Understand → Build → Debug → Improve**
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,mysql,git,github" />
-
-<br><br>
-
-### `400+`
-
-**LeetCode Problems**
+**Full Stack Development · Java · DSA · AI/ML · Generative AI**
 
 <br>
 
-### `4★`
-
-**HackerRank Problem Solving**
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ Engineering Profile
-
 <div align="center">
 
-<table>
-<tr>
+### ⚡ A few things about me
 
-<td align="center" width="25%">
+**💻 Full Stack Development**
 
-### 💻
+React · Node.js · Express.js · MySQL
 
-**Full Stack**
+**🤖 AI & ML**
 
-React
-Node.js
-Express.js
+Python · Scikit-learn · OpenAI API
 
-</td>
+**🧠 Problem Solving**
 
-<td align="center" width="25%">
+400+ LeetCode · Java · DSA
 
-### 🤖
+**🚀 Building**
 
-**AI / ML**
-
-Python
-Scikit-learn
-OpenAI API
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Problem Solving**
-
-Java
-DSA
-400+ LeetCode
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Data**
-
-MySQL
-MongoDB
-REST APIs
-
-</td>
-
-</tr>
-</table>
+Practical web applications & AI-powered products
 
 </div>
 
 ---
 
-# 🧰 Technology Arsenal
-
-<table>
-<tr>
-<td width="50%" valign="top">
+# 🛠️ Technologies I Work With
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-
-<br><br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-</td>
-
-<td width="50%" valign="top">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-
-<br><br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
 ### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode" />
-
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ### AI / Machine Learning
 
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
-
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
-# 🚀 Selected Work
+# 🚀 What I've Built
 
-<div align="center">
+### 📄 ResumeIQ
 
-## `01` · ResumeIQ
+**AI Resume Analyzer**
 
-### **AI Resume Analyzer**
+> Turn a resume + job description into actionable ATS-style insights.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+Built with:
 
-</div>
+`React` · `Node.js` · `Express.js` · `MySQL` · `JWT` · `OpenAI API`
 
-> An AI-powered platform that compares resumes with job descriptions and generates ATS-style compatibility insights.
+**What it does**
 
-**Core capabilities**
-
-| Capability           | Implementation               |
-| -------------------- | ---------------------------- |
-| 📄 Resume Processing | PDF upload & text extraction |
-| 🤖 AI Analysis       | OpenAI API                   |
-| 📊 ATS Insights      | Compatibility scoring        |
-| 🔎 Keyword Analysis  | Matched & missing keywords   |
-| 🔐 Authentication    | JWT                          |
-| 📈 History           | Previous analysis reports    |
-| 🔌 Communication     | REST APIs                    |
-
-<div align="center">
+* Upload resume PDF
+* Compare resume with job description
+* Generate ATS compatibility score
+* Identify matched & missing keywords
+* Maintain analysis history
+* Secure users with JWT authentication
+* Provide REST APIs
 
 <a href="https://github.com/Abhishek-Singh-07/ResumeIQ">
-<img src="https://img.shields.io/badge/EXPLORE%20RESUMEIQ-1677A8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
 ---
 
-<div align="center">
+### 🛡️ PhishGuard
 
-## `02` · PhishGuard
+**Machine Learning Phishing URL Detector**
 
-### **ML Phishing URL Detector**
+> Detect potentially malicious URLs using machine learning.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square" />
+Built with:
 
-</div>
+`Python` · `Flask` · `Scikit-learn` · `Pandas` · `NumPy` · `JavaScript`
 
-> A machine-learning web application that classifies URLs as legitimate or potentially phishing.
+**What it does**
 
-**Core capabilities**
-
-`URL Feature Extraction` · `Random Forest` · `ML Prediction` · `Flask REST API` · `Interactive UI`
-
-<div align="center">
+* Extract URL features
+* Classify URLs
+* Random Forest prediction
+* Flask REST API
+* Interactive web interface
 
 <a href="https://github.com/AbhilekhSingh-CS/phishguard">
-<img src="https://img.shields.io/badge/EXPLORE%20PHISHGUARD-1677A8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
 ---
 
-<div align="center">
+### 💰 SmartExpense
 
-## `03` · SmartExpense
+**Personal Expense Tracker**
 
-### **Personal Expense Management Platform**
+> A full-stack application for managing and understanding personal spending.
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+Built with:
 
-</div>
+`Node.js` · `Express.js` · `MySQL` · `JavaScript` · `HTML` · `CSS`
 
-> A full-stack application for recording, categorizing and analyzing personal expenses.
+**Highlights**
 
-**Core capabilities**
+🔐 Authentication
+➕ Expense CRUD
+🏷️ Categories
+📅 Date filters
+📊 Spending analysis
+🔌 REST APIs
 
-`Authentication` · `CRUD` · `Expense Categories` · `Date Filters` · `Monthly Reports` · `REST APIs`
-
----
-
-<div align="center">
-
-## `04` · RentConnect
-
-### **Flat & Roommate Finder**
-
-</div>
-
-> A web application that helps users discover rooms and potential roommates based on preferences and requirements.
-
-**Core capabilities**
-
-`Room Discovery` · `Roommate Matching` · `Preference Filtering` · `User Interface`
+<br><br>
 
 ---
 
-# 🧠 The Problem-Solving Side
+### 🏠 RentConnect
+
+**Flat & Roommate Finder**
+
+> Find suitable rooms and potential roommates based on preferences.
+
+Built around:
+
+`Matching Logic` · `Preference Filtering` · `Web Development`
+
+**Highlights**
+
+🏠 Room discovery
+👥 Roommate matching
+🔎 Preference-based filtering
+💻 Simple user experience
+
+---
+
+# 🧠 400+ Problems. One Language. Java.
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+<img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-## `400+`
+<br><br>
 
-### LeetCode
+**Data Structures & Algorithms**
 
-Problems Solved
+<br>
 
-</td>
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues`
 
-<td width="33%" align="center">
+`Trees` · `Graphs` · `Recursion` · `Dynamic Programming`
 
-## `Java`
-
-### Primary Language
-
-for DSA
-
-</td>
-
-<td width="33%" align="center">
-
-## `4★`
-
-### HackerRank
-
-Problem Solving
-
-</td>
-</tr>
-</table>
+<br><br>
 
 <a href="https://leetcode.com/u/Abhishek_Singh39/">
-<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
 
-### Areas I Practice
-
-`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Recursion` · `Dynamic Programming` · `Sorting` · `Searching`
-
 ---
 
-# 🏅 Certifications & Credentials
+# 🏅 Certifications
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<td align="center" width="50%">
+  
 
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Java%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
-### AI Foundations Associate
+<br><br>
 
-Artificial Intelligence Fundamentals
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%204%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
-</td>
+  
 
-<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Infosys-HTML%20%26%20CSS-007CC3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<br><br>
 
-### Java Certificate
-
-Java Programming
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-
-### Problem Solving — 4 Star
-
-Data Structures & Problem Solving
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/INFOSYS-007CC3?style=for-the-badge" />
-
-### HTML & CSS Certification
-
-Web Development Fundamentals
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" colspan="2">
-
-<img src="https://img.shields.io/badge/TCS%20iON-0066CC?style=for-the-badge" />
-
-### Career Edge — Young Professional
-
-Professional & Career Skills
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge%20%7C%20Young%20Professional-0066CC?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Intelligence
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Singh-07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Singh-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh-07&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhishek-Singh-07&theme=github-dark-blue&hide_border=true&mode=weekly" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh-07&theme=github-compact&hide_border=true&area=true&custom_title=Abhishek%20Singh%20%E2%80%94%20Contribution%20Activity" />
+<img src="https://streak-stats.demolab.com?user=Abhishek-Singh-07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Singh-07&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh-07&theme=tokyo-night&hide_border=true&area=true&custom_title=Abhishek%20Singh%27s%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
-# 🔭 What I'm Working On
+# 🏆 GitHub Trophies
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Current Focus
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Singh-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"/>
 
-* AI-powered web applications
-* Full-stack development
-* REST API architecture
-* Java & DSA
-* Database design
-* Backend development
-
-</td>
-
-<td width="50%" valign="top">
-
-### Exploring
-
-* Generative AI
-* AI application development
-* Machine Learning
-* Scalable application architecture
-* Better software engineering practices
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🗺️ Learning Roadmap
+# 🌱 Currently Learning
 
 <div align="center">
+
+**Java & DSA**
+
+↓
+
+**React.js**
+
+↓
+
+**Node.js & Express.js**
+
+↓
+
+**REST API Development**
+
+↓
+
+**Generative AI**
+
+↓
+
+**AI-Powered Applications**
+
+</div>
+
+---
+
+# 🎯 2026 Focus
 
 ```text
-┌──────────────────────┐
-│     JAVA + DSA       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      REACT.JS        │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ NODE.JS + EXPRESS    │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     REST APIs        │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   GENERATIVE AI      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ AI-POWERED PRODUCTS  │
-└──────────────────────┘
+╭──────────────────────────────────────────────╮
+│                                              │
+│   ▸ Strengthen Java & DSA                    │
+│   ▸ Build production-ready full-stack apps   │
+│   ▸ Explore Generative AI                    │
+│   ▸ Improve backend engineering              │
+│   ▸ Keep solving challenging problems        │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
-
-</div>
-
----
-
-# 💡 Engineering Philosophy
-
-<div align="center">
-
-### **Don't just write code. Understand the problem.**
-
-<br>
-
-`LEARN` → `BUILD` → `DEBUG` → `SOLVE` → `IMPROVE`
-
-<br>
-
-**Consistency compounds.**
-
-</div>
 
 ---
 
@@ -533,24 +339,24 @@ Professional & Career Skills
 
 <div align="center">
 
-### Open to learning, building and meaningful software opportunities.
+### I'm always interested in learning, building and connecting with other developers.
 
 <br>
 
 <a href="https://www.linkedin.com/in/abhishek-singh-8b0b74299">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="https://leetcode.com/u/Abhishek_Singh39/">
-<img src="https://img.shields.io/badge/CHECK%20MY%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
  
 
 <a href="https://github.com/Abhishek-Singh-07">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -559,7 +365,11 @@ Professional & Career Skills
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Build+with+purpose.;Learn+every+day.;Solve+better+problems.;Keep+shipping." />
+### 💻 Build → Learn → Solve → Repeat
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Keep+building.;Keep+learning.;Keep+solving." />
 
 </div>
 
@@ -567,6 +377,6 @@ Professional & Career Skills
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1677A8,35:123C5A,70:0B1F33,100:050B14&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:164E63,100:0F172A&height=140&section=footer"/>
 
 </div>
