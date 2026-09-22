@@ -1,11 +1,15 @@
-# 👨‍💻 Hi, I'm Abhishek Singh
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Abhishek%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=💻+Aspiring+Software+Developer;🚀+Full+Stack+Developer;🤖+AI+Enthusiast" alt="Animated Introduction"/>
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Aspiring+Software+Developer;Full+Stack+Developer;AI+Enthusiast" alt="Aspiring Software Developer | Full Stack Developer | AI Enthusiast"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Final-year B.Tech CSE & AI Student</b>
 </p>
 
 <p align="center">
@@ -57,7 +61,7 @@ public class AbhishekSingh {
 💻 Aspiring **Software Developer / Full Stack Developer**
 🤖 Exploring **Generative AI and AI-powered applications**
 🧩 Solved **400+ LeetCode problems using Java**
-🚀 Building practical full-stack and machine-learning projects
+🚀 Building practical **full-stack and machine-learning projects**
 🌱 Continuously improving **DSA, Java, Backend Development & System Design**
 
 ---
@@ -322,7 +326,7 @@ A web application designed to help users find suitable rooms and potential roomm
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+%26+Data+Structures;React.js;Node.js+%26+Express.js;REST+API+Development;Generative+AI;AI-Powered+Full+Stack+Applications" alt="Currently Learning"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Java+%26+Data+Structures;React.js;Node.js+%26+Express.js;REST+API+Development;Generative+AI;AI-Powered+Full+Stack+Applications" alt="Currently Learning"/>
 
 </p>
 
