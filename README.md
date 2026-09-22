@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Aspiring Software Developer | Full Stack Developer | AI Enthusiast</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=💻+Aspiring+Software+Developer;🚀+Full+Stack+Developer;🤖+AI+Enthusiast" alt="Animated Introduction"/>
 </p>
 
 <p align="center">
@@ -66,53 +66,65 @@ public class AbhishekSingh {
 
 ### 👨‍💻 Languages
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
 ### 🌐 Frontend
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 </p>
 
 ### ⚙️ Backend
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </p>
 
 ---
@@ -297,28 +309,22 @@ A web application designed to help users find suitable rooms and potential roomm
 * 🚀 Focused on improving problem-solving and algorithmic thinking
 
 <p align="center">
+
 <a href="https://leetcode.com/u/Abhishek_Singh39/">
 <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-Java & DSA
-     ↓
-React.js
-     ↓
-Node.js & Express.js
-     ↓
-REST API Development
-     ↓
-Generative AI
-     ↓
-AI-Powered Full Stack Applications
-```
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+%26+Data+Structures;React.js;Node.js+%26+Express.js;REST+API+Development;Generative+AI;AI-Powered+Full+Stack+Applications" alt="Currently Learning"/>
+
+</p>
 
 ---
 
