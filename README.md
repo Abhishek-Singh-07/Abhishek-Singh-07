@@ -173,7 +173,7 @@ A machine-learning web application that predicts whether a URL is legitimate or 
 * 📊 Feature extraction
 * 🌐 Interactive UI
 
-🔗 **[View PhishGuard →](https://github.com/AbhilekhSingh-CS/phishguard)**
+🔗 **[View PhishGuard →](https://github.com/Abhishek-Singh-07/PhishGuard)**
 
 ---
 
