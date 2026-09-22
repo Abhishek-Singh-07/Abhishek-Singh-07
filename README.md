@@ -160,7 +160,7 @@ Python • Flask • Scikit-learn • Pandas • NumPy • JavaScript
 * 📊 Feature extraction
 * 🌐 Interactive UI
 
-<a href="https://github.com/AbhilekhSingh-CS/phishguard">
+<a href="https://github.com/Abhishek-Singh-07">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -323,7 +323,7 @@ AI-Powered Full Stack Applications
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/abhishek-singh-8b0b74299"/>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
