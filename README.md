@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+CSE+%26+AI;Full+Stack+Developer;AI+%26+ML+Enthusiast;300%2B+LeetCode+Problems+Solved;Building+Practical+%26+Scalable+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+CSE+%26+AI;Full+Stack+Developer;AI+%26+ML+Enthusiast;400%2B+LeetCode+Problems+Solved;Building+Practical+%26+AI-Powered+Applications"/>
 
 <br>
 
@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/GitHub-Abhishek--Singh--07-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Abhishek_Singh39/">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
@@ -55,13 +55,12 @@ public class AbhishekSingh {
 }
 ```
 
-* 🎓 Final-year B.Tech student specializing in **Computer Science & AI**
+* 🎓 Final-year **B.Tech CSE & AI** student
 * 💻 Aspiring **Software Developer / Full Stack Developer**
-* 🤖 Interested in **AI, Machine Learning and Generative AI**
-* 🧠 Solved **400+ LeetCode problems**
-* ☕ Primary DSA language: **Java**
+* 🤖 Exploring **Artificial Intelligence, Machine Learning and Generative AI**
+* 🧠 Solved **400+ LeetCode problems using Java**
 * 🚀 Building practical **full-stack and AI-powered applications**
-* 📚 Continuously improving **DSA, backend development and system design**
+* 📚 Continuously improving **DSA, Java, backend development and problem solving**
 
 ---
 
@@ -91,7 +90,7 @@ public class AbhishekSingh {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
 <p>
 
@@ -127,22 +126,24 @@ public class AbhishekSingh {
 
 * 📄 Resume PDF upload
 * 🤖 AI-powered resume analysis
-* 📊 ATS-style scoring
+* 📊 ATS-style compatibility scoring
 * 🔍 Matched and missing keywords
-* 🔐 JWT authentication
+* 🔐 JWT-based authentication
 * 📈 Resume analysis history
 * 🔌 REST API integration
 * 👤 User-specific resume and report data
 
+<p>
 <a href="https://github.com/Abhishek-Singh-07/ResumeIQ">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 ---
 
 ## 🛡️ PhishGuard — ML Phishing URL Detector
 
-> Machine learning web application that predicts whether a URL is potentially phishing or legitimate.
+> Machine-learning web application that predicts whether a URL is potentially phishing or legitimate.
 
 ### Tech Stack
 
@@ -152,20 +153,22 @@ public class AbhishekSingh {
 
 * 🔗 URL-based phishing detection
 * 🌲 Random Forest classification
-* 🧠 Machine learning prediction
+* 🧠 Machine-learning prediction
 * ⚙️ Flask REST API
+* 📊 URL feature extraction
 * 🌐 Interactive web interface
-* 📊 Feature-based URL analysis
 
+<p>
 <a href="https://github.com/AbhilekhSingh-CS/phishguard">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 ---
 
 ## 💰 SmartExpense — Personal Expense Tracker
 
-> Full-stack expense management application for tracking and analyzing personal spending.
+> Full-stack application for managing, categorizing and analyzing personal expenses.
 
 ### Tech Stack
 
@@ -174,12 +177,26 @@ public class AbhishekSingh {
 ### Key Features
 
 * 🔐 User registration and login
-* 💰 Add, update and delete expenses
-* 🏷️ Categorized transactions
+* ➕ Create, update and delete expenses
+* 🏷️ Expense categorization
 * 📅 Date-based filtering
 * 📊 Monthly spending reports
 * 📈 Category-wise expense analysis
-* 🔌 REST API based architecture
+* 🔌 REST API integration
+* 🧪 API testing with Postman
+
+---
+
+## 🏠 RentConnect — Flat & Roommate Finder
+
+> Web application designed to help users find suitable rooms and potential roommates based on their preferences.
+
+### Highlights
+
+* 🏠 Room discovery
+* 👥 Roommate matching
+* 🔎 Preference-based filtering
+* 💻 User-friendly web interface
 
 ---
 
@@ -187,11 +204,11 @@ public class AbhishekSingh {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HackerRank-4%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Primary%20DSA%20Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </p>
 
@@ -207,21 +224,39 @@ public class AbhishekSingh {
 
 * 🧠 **400+ LeetCode problems solved**
 * ⭐ **HackerRank 4-Star Problem Solving**
-* ☕ Strong focus on **Java and DSA**
 * 🤖 **Oracle AI Foundations Associate**
-* 💻 Consistent practice in competitive programming and problem solving
+* 💻 Regular practice in **Data Structures & Algorithms**
+* 🚀 Experience building **full-stack and machine-learning projects**
 
 ---
 
 # 📜 Certifications
 
-| Certification                    | Platform   |
-| -------------------------------- | ---------- |
-| Oracle AI Foundations Associate  | Oracle     |
-| Java Certificate                 | HackerRank |
-| Problem Solving – 4 Star         | HackerRank |
-| HTML & CSS Certification         | Infosys    |
-| Career Edge – Young Professional | TCS iON    |
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Java%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%204%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Infosys-HTML%20%26%20CSS%20Certification-007CC3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge%20%E2%80%93%20Young%20Professional-0066CC?style=for-the-badge"/>
+
+</p>
+
+### 🎓 Certification Highlights
+
+| 🏅 Certification                     | 🏢 Issuer  |
+| ------------------------------------ | ---------- |
+| **Oracle AI Foundations Associate**  | Oracle     |
+| **Java Certificate**                 | HackerRank |
+| **Problem Solving – 4 Star**         | HackerRank |
+| **HTML & CSS Certification**         | Infosys    |
+| **Career Edge – Young Professional** | TCS iON    |
 
 ---
 
@@ -308,10 +343,12 @@ AI & ML
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhishek-singh-8b0b74299"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/abhishek-singh-8b0b74299">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[Abhishek_Singh39 - LeetCode Profile](https://leetcode.com/u/Abhishek_Singh39/)"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Abhishek_Singh39/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
